@@ -1,6 +1,15 @@
 # GTAlgorithmPerformanceEvaluation
-benchmarking OT variants and alternatives under general framework
+This project benchmarks OT variants and alternatives under a general framework.
 
-run this project with one simple step:<br />
+This project is a pure java project.
 
-in \bin directory, click the bat files.
+## OT Variants
+-TTF (Tombstone-based Transformation Function)
+-ABT (Admissibility-Based Transformation)
+
+## OT Alterantives
+-AST (Address Space Transformation)
+-CRDT (Commutative Replicated Data Type)
+
+## Run Project
+enter `bin` directory, click the bat files, then the project would automatically run.
